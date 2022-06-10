@@ -5,7 +5,7 @@
 
 // Any other responsibility that is not related to the journals should
 // be handled by other classes. Such as saving the entries to a file. Which is in no way related
-// to the journal class.
+// to the journal functionality.
 
 const fs = require('fs');
 
